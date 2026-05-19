@@ -32,7 +32,7 @@ statsmodels==0.14.5
 torch==2.6.0
 
 
-```
+
 ## Datasets
 The used datasets are available at:
 
