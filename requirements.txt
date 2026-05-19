@@ -1,4 +1,8 @@
 einops==0.8.1
+matplotlib==3.10.7
 numpy==1.24.3
 pandas==2.3.3
+ptflops==0.7.5
+scikit_learn==1.8.0
+statsmodels==0.14.5
 torch==2.6.0
