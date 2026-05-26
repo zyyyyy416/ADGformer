@@ -39,7 +39,7 @@ The used datasets are available at:
 ETT (4 subsets), Weather, Electricity and Exchange_rate https://github.com/thuml/iTransformer
 Flight https://github.com/YoZhibo/MSGNet
 
-Our newly introduced dataset, HTS-Wall, will be made public after the article is accepted.
+Our newly released dataset, HTS-Wall, will be fully released to the public once the paper is accepted. We are now providing a sample dataset.
 
 ## License
 
